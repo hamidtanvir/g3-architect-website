@@ -20,6 +20,12 @@
     border: 0;
 }
 
+.section-title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 .text-light-gray {
     color: #727272;
 }
@@ -52,7 +58,7 @@ nav li a {
     color: #424242;
 }
 
-.nav-title{
+.section-title{
     font-size: 3rem;
     font-weight: 700;
     color: #131313;
